@@ -225,12 +225,12 @@ $result = $conn->query($sql);
 
     <div style="text-align-last: center;">
         <div class='text-lg-start mt-4 pt-2' style='text-align: center;'>
-            <a class='form-text' href='/sitiowww/dashboard/php/ud.php'>
+            <a class='form-text' href='/prod-seg/dashboard/php/ud.php'>
                 <button type='button' data-mdb-button-init data-mdb-ripple-init class='btn btn-primary btn-lg' style='padding-left: 2.5rem; padding-right: 2.5rem;'>
                     Actualizar y/o eliminar registros
                 </button>
             </a>
-            <a class='form-text' href='/sitiowww/index.php'>
+            <a class='form-text' href='/prod-seg/index.php'>
                 <button type='button' data-mdb-button-init data-mdb-ripple-init class='btn btn-primary btn-lg' style='padding-left: 2.5rem; padding-right: 2.5rem;'>
                     Inicio
                 </button>

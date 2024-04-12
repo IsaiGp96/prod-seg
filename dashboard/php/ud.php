@@ -103,12 +103,12 @@
         echo "</table>
         <div style='text-align-last: center;'>
         <div class='text-lg-start mt-4 pt-2' style='text-align: center;'>
-            <a class='form-text' href='/sitiowww/dashboard/php/rc.php'>
+            <a class='form-text' href='/prod-seg/dashboard/php/rc.php'>
                 <button type='button' data-mdb-button-init data-mdb-ripple-init class='btn btn-primary btn-lg' style='padding-left: 2.5rem; padding-right: 2.5rem;'>
                     Ver y/o crear registros
                 </button>
             </a>
-            <a class='form-text' href='/sitiowww/index.php'>
+            <a class='form-text' href='/prod-seg/index.php'>
                 <button type='button' data-mdb-button-init data-mdb-ripple-init class='btn btn-primary btn-lg' style='padding-left: 2.5rem; padding-right: 2.5rem;'>
                     Inicio
                 </button>
